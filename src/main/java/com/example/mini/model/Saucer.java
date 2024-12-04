@@ -1,4 +1,4 @@
-package com.example.alimentaTec.model;
+package com.example.mini.model;
 
 import lombok.Getter;
 import lombok.Setter;

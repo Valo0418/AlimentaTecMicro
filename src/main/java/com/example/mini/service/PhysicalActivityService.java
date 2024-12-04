@@ -1,4 +1,4 @@
-package com.example.alimentaTec.service;
+package com.example.mini.service;
 
 import java.util.List;
 
@@ -7,8 +7,8 @@ import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.stereotype.Service;
 
-import com.example.alimentaTec.model.PhysicalActivity;
-import com.example.alimentaTec.repository.PhysicalActivityRepository;
+import com.example.mini.model.PhysicalActivity;
+import com.example.mini.repository.PhysicalActivityRepository;
 import jakarta.transaction.Transactional;
 
 @Service

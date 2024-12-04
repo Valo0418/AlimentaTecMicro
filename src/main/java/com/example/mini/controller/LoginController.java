@@ -1,4 +1,4 @@
-package com.example.alimentaTec.controller;
+package com.example.mini.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.*;
 import org.springframework.validation.annotation.Validated; 
 import jakarta.validation.Valid; // Importar Valid
 
-import com.example.alimentaTec.model.Login;
-import com.example.alimentaTec.service.LoginService;
+import com.example.mini.model.Login;
+import com.example.mini.service.LoginService;
 
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.media.Content;

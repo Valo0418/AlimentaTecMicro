@@ -1,4 +1,4 @@
-package com.example.alimentaTec.controller;
+package com.example.mini.controller;
 
 import java.util.List;
 
@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.*;
 import jakarta.validation.Valid;
 import org.springframework.validation.annotation.Validated;
 
-import com.example.alimentaTec.model.Nutritionist;
-import com.example.alimentaTec.service.NutritionistService;
+import com.example.mini.model.Nutritionist;
+import com.example.mini.service.NutritionistService;
 
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.media.Content;

@@ -1,4 +1,4 @@
-package com.example.alimentaTec.controller;
+package com.example.mini.controller;
 
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.*;
 import jakarta.validation.Valid;
 import org.springframework.validation.annotation.Validated;
 
-import com.example.alimentaTec.model.Saucer;
-import com.example.alimentaTec.service.SaucerService;
+import com.example.mini.model.Saucer;
+import com.example.mini.service.SaucerService;
 
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.media.Content;

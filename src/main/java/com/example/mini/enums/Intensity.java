@@ -1,4 +1,4 @@
-package com.example.alimentaTec.enums;
+package com.example.mini.enums;
 
 public enum Intensity {
     low,

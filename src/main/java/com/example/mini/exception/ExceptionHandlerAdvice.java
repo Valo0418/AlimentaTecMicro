@@ -1,4 +1,4 @@
-package com.example.alimentaTec.exception;
+package com.example.mini.exception;
 
 import java.sql.SQLException;
 import java.util.List;

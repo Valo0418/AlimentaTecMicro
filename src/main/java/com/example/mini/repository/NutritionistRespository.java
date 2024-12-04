@@ -1,4 +1,4 @@
-package com.example.alimentaTec.repository;
+package com.example.mini.repository;
 
 
 import java.util.List;
@@ -8,7 +8,7 @@ import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
 
-import com.example.alimentaTec.model.Nutritionist;
+import com.example.mini.model.Nutritionist;
 
 @Repository
 public interface NutritionistRespository extends JpaRepository<Nutritionist, Integer> {

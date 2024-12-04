@@ -1,4 +1,4 @@
-package com.example.alimentaTec.controller;
+package com.example.mini.controller;
 
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -15,8 +15,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.DeleteMapping;
-import com.example.alimentaTec.service.JournalService;
-import com.example.alimentaTec.model.Journal;
+import com.example.mini.service.JournalService;
+import com.example.mini.model.Journal;
 import org.springframework.validation.annotation.Validated; // Importar Validated
 import jakarta.validation.Valid; // Importar Valid
 

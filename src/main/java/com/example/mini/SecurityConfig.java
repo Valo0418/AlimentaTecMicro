@@ -1,4 +1,4 @@
-package com.example.alimentaTec;
+package com.example.mini;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

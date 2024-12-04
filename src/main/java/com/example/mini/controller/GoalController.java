@@ -1,4 +1,4 @@
-package com.example.alimentaTec.controller;
+package com.example.mini.controller;
 
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -16,8 +16,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.validation.annotation.Validated;
 
-import com.example.alimentaTec.model.Goal;
-import com.example.alimentaTec.service.GoalService;
+import com.example.mini.model.Goal;
+import com.example.mini.service.GoalService;
 
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.media.Content;

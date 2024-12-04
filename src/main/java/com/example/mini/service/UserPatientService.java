@@ -1,4 +1,4 @@
-package com.example.alimentaTec.service;
+package com.example.mini.service;
 
 import java.util.List;
 
@@ -7,8 +7,8 @@ import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.stereotype.Service;
 
-import com.example.alimentaTec.model.UserPatient;
-import com.example.alimentaTec.repository.UserPatientRepository;
+import com.example.mini.model.UserPatient;
+import com.example.mini.repository.UserPatientRepository;
 import jakarta.transaction.Transactional;
 
 @Service

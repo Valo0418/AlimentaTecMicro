@@ -1,4 +1,4 @@
-package com.example.alimentaTec.model;
+package com.example.mini.model;
 
 import com.example.alimentaTec.enums.Intensity;
 import com.fasterxml.jackson.annotation.JsonProperty;

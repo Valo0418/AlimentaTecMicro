@@ -1,11 +1,11 @@
-package com.example.alimentaTec.service;
+package com.example.mini.service;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import com.example.alimentaTec.model.Login;
-import com.example.alimentaTec.repository.LoginRepository;
+import com.example.mini.model.Login;
+import com.example.mini.repository.LoginRepository;
 
 import jakarta.transaction.Transactional;
 
